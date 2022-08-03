@@ -42,6 +42,6 @@ def gera_armstrong(inicio,fim):
     print("Lista de numeros armstrondo do intervalo de", inicio, "a", fim)
     return lista_armstrong
 #Exemplos:
-if __name__ == '__main__':
-    print(e_armstrong(153))
-    print(gera_armstrong(1,10000))
+#if __name__ == '__main__':
+    #print(e_armstrong(153))
+    #print(gera_armstrong(1,10000))
